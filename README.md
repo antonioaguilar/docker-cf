@@ -7,6 +7,8 @@ Docker container with Cloud Foundry CLI
 docker pull aaguilar/cf
 ```
 
+> The Docker image is avaliable in [DockerHub](https://hub.docker.com/r/aaguilar/cf/)
+
 ### Usage
 
 ```
